@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=What USB-C?
+Comment=Identify USB-C cables, ports and devices
+Exec=python3 /home/fivelidz/projects/phone_projects/USBC_type_ID/desktop/whatusbc.py
+Icon=drive-harddisk-usb
+Terminal=false
+Categories=Utility;System;HardwareSettings;
+Keywords=usb;usb-c;cable;thunderbolt;charging;

@@ -1,0 +1,27 @@
+# Android/Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+.opencode/
+captures/
+.cxx/
+*.apk
+.kotlin/
+
+# Python (desktop)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# OS / misc
+.DS_Store
+*.log
